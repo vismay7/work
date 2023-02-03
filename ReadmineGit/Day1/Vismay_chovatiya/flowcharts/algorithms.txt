@@ -1,0 +1,20 @@
+// add a two numbers
+
+step 1: get a input of two numbers
+step 2: do addition of two numbers 
+step 3: store a value of addition of two numbers
+step 4: display a stored value of addition
+
+// area of circle
+
+step 1: get a input of radius
+step 2: store a inputed value in variable
+step 3: use equation of fiding area ( area = 3.14 * radius * radius) and store value in variable (area)
+step 4: print a value of area
+
+//sum of all even numbers
+step 1: get input of n(last number)
+step 2: check condition of value (i)
+step 3: check it's module by 2
+step 4: module is true then sum a number or false add one number
+step 5: print a value of sum
